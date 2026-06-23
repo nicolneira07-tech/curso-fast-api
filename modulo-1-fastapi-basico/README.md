@@ -9,7 +9,7 @@ modulo-1-fastapi-basico/
 │   ├── main.py
 │   └── schemas.py
 │
-├── venv/
+├── gitignore/venv
 ├── requirements.txt
 └── README.md
 
